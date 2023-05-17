@@ -1,0 +1,66 @@
+[
+	{
+		"id" : 1,
+		"username" : "piaopiao",
+		"password" : "$2a$10$27V7ievQnlDB5UOwboapruAvMO5uY8EI7J9.D8YobvlubDcVx1Vwq",
+		"nickname" : "邹洋朋",
+		"email" : "3264991341@qq.com",
+		"user_pic" : null
+	},
+	{
+		"id" : 2,
+		"username" : "ZM001",
+		"password" : "$2a$10$I1Zjjl.KGxSxSLKSXebMwuEnZeUjrO9v1hzs0GG.xSVmVZVjMgt4.",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	},
+	{
+		"id" : 3,
+		"username" : "ZM002",
+		"password" : "$2a$10$VS9xP4TQ1QHw5BkkCvoahO56KJNsyMcQ6nl42MJUS.ICRduodG9We",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	},
+	{
+		"id" : 4,
+		"username" : "ZM003",
+		"password" : "$2a$10$GeIyq3F8KcWMVz91ScqVAeU/4zmgrXEQu2l0kwFWElS8/GZ7Xs.G.",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	},
+	{
+		"id" : 5,
+		"username" : "ZM004",
+		"password" : "$2a$10$GZgdXVOsr5Gik/UOhCR9N.qEq/gvYeFC7YuG2sqGgi0GX1jvgV/sq",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	},
+	{
+		"id" : 6,
+		"username" : "ZM005",
+		"password" : "$2a$10$kNBBa9egEqA/E.o4koyDne/hN3LyAwjUczHY3ykWoPdk3qAPxJ37C",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	},
+	{
+		"id" : 7,
+		"username" : "ZM006",
+		"password" : "$2a$10$KfpD/80vv2JaBvBXoZudoequkgfriKys3qWyvGPQWII/SmpMWt2VW",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	},
+	{
+		"id" : 8,
+		"username" : "pp001",
+		"password" : "$2a$10$sRImR2QLgXEnJN1yhNwt8efQMsO1aCoH8j1jJajq6.QvTmvs43ywG",
+		"nickname" : null,
+		"email" : null,
+		"user_pic" : null
+	}
+]
